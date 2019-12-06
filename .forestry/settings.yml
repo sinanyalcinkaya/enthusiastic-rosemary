@@ -36,7 +36,7 @@ sections:
   - portfolio
 - type: document
   path: contact.md
-  label: Contact
+  label: İletişim
   templates:
   - contact
 - type: directory
